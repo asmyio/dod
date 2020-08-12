@@ -1,2 +1,2 @@
-# dod
-DevOps with Docker
+# DevOps with Docker
+exercise submission
